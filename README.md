@@ -7,4 +7,5 @@ It's not very catchy, but it will do.
 
 Our sensor is called the Amazing Super Sensor. Don't think about the acronym.
 
+Here's an image of our data.
 ![Data Screenshot](Screen%20Shot%202020-12-11%20at%208.38.59%20AM.png)
