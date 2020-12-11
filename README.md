@@ -9,3 +9,6 @@ Our sensor is called the Amazing Super Sensor. Don't think about the acronym.
 
 Here's an image of our data.
 ![Data Screenshot](Screen%20Shot%202020-12-11%20at%208.38.59%20AM.png)
+
+Here's an image of the reciever code.
+![Receiving Code Screenshot](Screen%20Shot%202020-12-11%20at%208.59.54%20AM.png)
